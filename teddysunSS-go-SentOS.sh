@@ -240,6 +240,7 @@ function install_go(){
     echo "Welcome to visit:http://teddysun.com/392.html"
     echo "Enjoy it!"
     echo ""
+    vi /etc/shadowsocks/config.json
     exit 0
 }
 
